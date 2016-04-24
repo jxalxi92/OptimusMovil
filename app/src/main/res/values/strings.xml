@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Optimus</string>
+    <string name="action_settings">Configuraciones</string>
+
+    <string name="home_item">Home</string>
+    <string name="productos_item">Solicitud</string>
+    <string name="compras_item">Digitación</string>
+    <string name="ordenes_item">Calificación SBS</string>
+    <string name="facturas_item">Facturas</string>
+    <string name="log_out_item">Cerrar Sesión</string>
+    <string name="configuracion_item">Configuración</string>
+
+
+    <string name="action_sync">Sincronizar</string>
+    <string name="account_type">pe.com.cmacica.optimusmovil.account</string>
+    <string name="provider_authority">pe.com.cmacica.optimusmovil</string>
+    <string name="empty_list">No hay datos</string>
+    <string name="title_activity_detail">Nuevo Producto</string>
+    <string name="monto_hint">Precio</string>
+    <string name="descripcion_hint">Descripción</string>
+    <string name="fecha_title">Fecha</string>
+    <string name="Descripcion_title">Descripción</string>
+    <string-array name="Categorias">
+        <item>Gaseosa</item>
+        <item>Galleta</item>
+    </string-array>
+    <string name="boton">AGREGAR PRODUCTO</string>
+    <string name="title_activity_insert">Nuevo Producto</string>
+
+
+</resources>
